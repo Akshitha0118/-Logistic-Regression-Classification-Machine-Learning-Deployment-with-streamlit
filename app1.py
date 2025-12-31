@@ -119,3 +119,4 @@ st.markdown(
     "<hr><center>Built with ❤️ using Streamlit & Logistic Regression</center>",
     unsafe_allow_html=True
 )
+
